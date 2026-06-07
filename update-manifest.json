@@ -1,0 +1,13 @@
+{
+    "appId":  "com.keymuse",
+    "latestVersionCode":  4,
+    "latestVersionName":  "0.1.4",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.4/KeyMuse-v0.1.4-debug.apk",
+    "apkSha256":  "1add200b9dfb31be98afad31bf205ffb43091ec18b1909cade8d2bdf0fb1e30a",
+    "releaseNotes":  [
+                         "Agrega pantalla Updates con busqueda manual.",
+                         "Corrige la superposicion con la barra de estado Android.",
+                         "Descarga APK, verifica SHA-256 y abre el instalador Android."
+                     ],
+    "mandatory":  false
+}
