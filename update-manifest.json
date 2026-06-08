@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  10,
-    "latestVersionName":  "0.1.10",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.10/KeyMuse-v0.1.10-debug.apk",
-    "apkSha256":  "44fc2487de7fbc14d4e9a1c40681177b2dc79258c8e77f850e63db0c603f757c",
+    "latestVersionCode":  11,
+    "latestVersionName":  "0.1.11",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.11/KeyMuse-v0.1.11-debug.apk",
+    "apkSha256":  "0d5d6094b11c4a35e7307d07ca40d1dc45848772cac33cc3221a5966bb5f2fb8",
     "releaseNotes":  [
-                         "Mueve el indicador fuera del centro del piano roll.",
-                         "Agrega HUD compacto arriba del area de juego.",
-                         "Mueve feedback a una banda sobre el teclado."
+                         "Reduce el peso visual de la navegacion superior.",
+                         "Cambia botones grandes por tabs oscuros compactos.",
+                         "Integra metadata de practica en un HUD mas limpio."
                      ],
     "mandatory":  false
 }
