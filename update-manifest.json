@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  9,
-    "latestVersionName":  "0.1.9",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.9/KeyMuse-v0.1.9-debug.apk",
-    "apkSha256":  "99d7a788c3735ecae6ad6fb387c48790b6a7c8549d480c5a1b3618e8dcb8f01d",
+    "latestVersionCode":  10,
+    "latestVersionName":  "0.1.10",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.10/KeyMuse-v0.1.10-debug.apk",
+    "apkSha256":  "44fc2487de7fbc14d4e9a1c40681177b2dc79258c8e77f850e63db0c603f757c",
     "releaseNotes":  [
-                         "Cambia el teclado inferior a estilo piano real.",
-                         "Teclas blancas como base y negras mas cortas superpuestas.",
-                         "Resalta nota objetivo y tecla activa con colores distintos."
+                         "Mueve el indicador fuera del centro del piano roll.",
+                         "Agrega HUD compacto arriba del area de juego.",
+                         "Mueve feedback a una banda sobre el teclado."
                      ],
     "mandatory":  false
 }
