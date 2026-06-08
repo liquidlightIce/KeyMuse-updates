@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  13,
-    "latestVersionName":  "0.1.13",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.13/KeyMuse-v0.1.13-debug.apk",
-    "apkSha256":  "feaa6bed486153f6663e08586c27d2ea8afdd68fd1d766dd086d04c950b27953",
+    "latestVersionCode":  14,
+    "latestVersionName":  "0.1.14",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.14/KeyMuse-v0.1.14-debug.apk",
+    "apkSha256":  "e8ff859c1970dedccf302b9f897e7225c4a619719b95c91221565a32b1400544",
     "releaseNotes":  [
-                         "Corrige el conflicto de instalacion del updater usando la misma firma que v0.1.10/v0.1.11.",
-                         "Mantiene el note highway animado de v0.1.12.",
-                         "Fija la keystore debug para evitar cambios de firma en futuras versiones."
+                         "Evita que la practica quede pegada cuando una nota ya paso su ventana de tiempo.",
+                         "Marca notas vencidas como perdidas y avanza al siguiente objetivo tocable.",
+                         "Permite acertar notas posteriores aunque hayas fallado una anterior."
                      ],
     "mandatory":  false
 }
