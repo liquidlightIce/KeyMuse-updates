@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  14,
-    "latestVersionName":  "0.1.14",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.14/KeyMuse-v0.1.14-debug.apk",
-    "apkSha256":  "e8ff859c1970dedccf302b9f897e7225c4a619719b95c91221565a32b1400544",
+    "latestVersionCode":  15,
+    "latestVersionName":  "0.1.15",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.15/KeyMuse-v0.1.15-debug.apk",
+    "apkSha256":  "93071c7ca4ff15b1a2adc867769b5b522897b131dc9596525281c16067db4299",
     "releaseNotes":  [
-                         "Evita que la practica quede pegada cuando una nota ya paso su ventana de tiempo.",
-                         "Marca notas vencidas como perdidas y avanza al siguiente objetivo tocable.",
-                         "Permite acertar notas posteriores aunque hayas fallado una anterior."
+                         "Distingue notas acertadas y missed: las missed ya no quedan verdes.",
+                         "Limpia teclas activas al terminar para evitar notas pegadas visualmente.",
+                         "Agrega resumen final Score: acertadas / total y Missed."
                      ],
     "mandatory":  false
 }
