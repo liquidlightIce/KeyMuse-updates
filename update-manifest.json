@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  6,
-    "latestVersionName":  "0.1.6",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.6/KeyMuse-v0.1.6-debug.apk",
-    "apkSha256":  "db69c98fa3c8cda499a4e800ce1b705287f9cc4670e9bdf998eacfc4a8e2e0c9",
+    "latestVersionCode":  7,
+    "latestVersionName":  "0.1.7",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.7/KeyMuse-v0.1.7-debug.apk",
+    "apkSha256":  "454be424999c82359e55a1ecc69fc58a6201e7905af311fd9903b59c636f07b6",
     "releaseNotes":  [
-                         "Agrega la primera leccion demo con notas objetivo.",
-                         "Secuencia: Do4, Re4, Mi4, Fa4, Sol4.",
-                         "Marca correcto o error y avanza automaticamente al tocar la nota correcta."
+                         "Mantiene Lesson complete al soltar la ultima tecla.",
+                         "Agrega progreso visible de la leccion demo.",
+                         "Agrega boton Restart para repetir la demo."
                      ],
     "mandatory":  false
 }
