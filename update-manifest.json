@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  11,
-    "latestVersionName":  "0.1.11",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.11/KeyMuse-v0.1.11-debug.apk",
-    "apkSha256":  "0d5d6094b11c4a35e7307d07ca40d1dc45848772cac33cc3221a5966bb5f2fb8",
+    "latestVersionCode":  12,
+    "latestVersionName":  "0.1.12",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.12/KeyMuse-v0.1.12-debug.apk",
+    "apkSha256":  "2aa3b56e05ee75c0eee82e7853c864243a39088196d0d2a3626995751a908ad9",
     "releaseNotes":  [
-                         "Reduce el peso visual de la navegacion superior.",
-                         "Cambia botones grandes por tabs oscuros compactos.",
-                         "Integra metadata de practica en un HUD mas limpio."
+                         "Anima el piano roll para que las notas viajen hacia la linea de acierto.",
+                         "Agrega ventana de timing para notas correctas, tempranas y tardias.",
+                         "Mantiene restart y progreso de la leccion demo."
                      ],
     "mandatory":  false
 }
