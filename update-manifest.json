@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  4,
-    "latestVersionName":  "0.1.4",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.4/KeyMuse-v0.1.4-debug.apk",
-    "apkSha256":  "1add200b9dfb31be98afad31bf205ffb43091ec18b1909cade8d2bdf0fb1e30a",
+    "latestVersionCode":  5,
+    "latestVersionName":  "0.1.5",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.5/KeyMuse-v0.1.5-debug.apk",
+    "apkSha256":  "fcce9aa619a69fa88a6372227b1459e0d490fe69a80b31149062112cbd3cdaa9",
     "releaseNotes":  [
-                         "Agrega pantalla Updates con busqueda manual.",
-                         "Corrige la superposicion con la barra de estado Android.",
-                         "Descarga APK, verifica SHA-256 y abre el instalador Android."
+                         "Muestra las notas del teclado en dos lineas: Do3 arriba y C3 abajo.",
+                         "Mantiene el feedback central como Do3 / C3.",
+                         "Mejora contraste y tamano del texto en teclas activas."
                      ],
     "mandatory":  false
 }
