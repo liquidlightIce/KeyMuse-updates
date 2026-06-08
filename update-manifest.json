@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  5,
-    "latestVersionName":  "0.1.5",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.5/KeyMuse-v0.1.5-debug.apk",
-    "apkSha256":  "fcce9aa619a69fa88a6372227b1459e0d490fe69a80b31149062112cbd3cdaa9",
+    "latestVersionCode":  6,
+    "latestVersionName":  "0.1.6",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.6/KeyMuse-v0.1.6-debug.apk",
+    "apkSha256":  "db69c98fa3c8cda499a4e800ce1b705287f9cc4670e9bdf998eacfc4a8e2e0c9",
     "releaseNotes":  [
-                         "Muestra las notas del teclado en dos lineas: Do3 arriba y C3 abajo.",
-                         "Mantiene el feedback central como Do3 / C3.",
-                         "Mejora contraste y tamano del texto en teclas activas."
+                         "Agrega la primera leccion demo con notas objetivo.",
+                         "Secuencia: Do4, Re4, Mi4, Fa4, Sol4.",
+                         "Marca correcto o error y avanza automaticamente al tocar la nota correcta."
                      ],
     "mandatory":  false
 }
