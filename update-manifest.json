@@ -1,13 +1,14 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  18,
-    "latestVersionName":  "0.1.18",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.18/KeyMuse-v0.1.18-debug.apk",
-    "apkSha256":  "65f4d758202398c68adc1ff8593d9b555e0457aaa2e4e33dccd3985a403ba87b",
+    "latestVersionCode":  19,
+    "latestVersionName":  "0.1.19",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.19/KeyMuse-v0.1.19-debug.apk",
+    "apkSha256":  "cc419034ee168f08d287fa709f5a04b5f5b1804feaf1486708446b47dcb499b8",
     "releaseNotes":  [
-                         "Limpia las barritas del piano roll al terminar la leccion.",
-                         "La pista visual ahora solo dibuja notas mientras Practice esta en Play.",
-                         "Mantiene el logo premium y el Play manual de v0.1.17."
+                         "Agrega controles Play, Pause, Resume y Restart en Practice.",
+                         "Agrega modos Beginner, Practice y Performance.",
+                         "Agrega velocidad de practica 50%, 75% y 100%.",
+                         "Beginner espera la nota correcta sin misses automaticos; Performance usa timing mas estricto."
                      ],
     "mandatory":  false
 }
