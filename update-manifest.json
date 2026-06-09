@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  24,
-    "latestVersionName":  "0.1.24",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.24/KeyMuse-v0.1.24-debug.apk",
-    "apkSha256":  "a3653e2e9eb3d12a96ebd0b54ccecbd6bfdead8b57ad1c413dba8fd4c34a6984",
+    "latestVersionCode":  25,
+    "latestVersionName":  "0.1.25",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.25/KeyMuse-v0.1.25-debug.apk",
+    "apkSha256":  "012cf30d12b5805a4ad6a17456c01f0a9eda877fd2dfc7b875d9aed65ce71476",
     "releaseNotes":  [
-                         "Practice ahora mantiene todas las notas alcanzadas fijas en la linea.",
-                         "Corrige el salto visual restante en las notas despues de la primera.",
-                         "Sin cambios de sonido."
+                         "Las notas completadas del piano roll ahora desaparecen en vez de acumularse en la linea.",
+                         "Practice solo mantiene fija la nota que necesita correccion.",
+                         "Reemplaza el comportamiento de v0.1.24 que podia montar varias notas."
                      ],
     "mandatory":  false
 }
