@@ -1,14 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  17,
-    "latestVersionName":  "0.1.17",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.17/KeyMuse-v0.1.17-debug.apk",
-    "apkSha256":  "7124f696676f9b5a5f36d7c8df269af1fe2f5296fb318642e2d46a8f039ee416",
+    "latestVersionCode":  18,
+    "latestVersionName":  "0.1.18",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.18/KeyMuse-v0.1.18-debug.apk",
+    "apkSha256":  "65f4d758202398c68adc1ff8593d9b555e0457aaa2e4e33dccd3985a403ba87b",
     "releaseNotes":  [
-                         "Practice ya no inicia la demo automaticamente al abrir la app; ahora requiere presionar Play.",
-                         "Tocar teclas antes de Play registra velocity sin avanzar la leccion.",
-                         "Reemplaza el logo tecnico por assets derivados del mock premium seleccionado.",
-                         "Agrega adaptive launcher icon y header KeyMuse con Key blanco y Muse cyan."
+                         "Limpia las barritas del piano roll al terminar la leccion.",
+                         "La pista visual ahora solo dibuja notas mientras Practice esta en Play.",
+                         "Mantiene el logo premium y el Play manual de v0.1.17."
                      ],
     "mandatory":  false
 }
