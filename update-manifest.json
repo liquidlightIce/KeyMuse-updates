@@ -1,14 +1,14 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  16,
-    "latestVersionName":  "0.1.16",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.16/KeyMuse-v0.1.16-debug.apk",
-    "apkSha256":  "6fa86114c425f32b4872722f5832a1171b888eb1462bfa7bdec1626bde926743",
+    "latestVersionCode":  17,
+    "latestVersionName":  "0.1.17",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.17/KeyMuse-v0.1.17-debug.apk",
+    "apkSha256":  "7124f696676f9b5a5f36d7c8df269af1fe2f5296fb318642e2d46a8f039ee416",
     "releaseNotes":  [
-                         "Aplica branding premium KeyMuse en el launcher icon.",
-                         "Agrega wordmark horizontal con mark de metrónomo/anillo de timing en el header.",
-                         "Guarda los mocks y paletas seleccionadas en docs/design/reference/brand para respaldo.",
-                         "Mantiene el resumen final Score y Missed de la version anterior."
+                         "Practice ya no inicia la demo automaticamente al abrir la app; ahora requiere presionar Play.",
+                         "Tocar teclas antes de Play registra velocity sin avanzar la leccion.",
+                         "Reemplaza el logo tecnico por assets derivados del mock premium seleccionado.",
+                         "Agrega adaptive launcher icon y header KeyMuse con Key blanco y Muse cyan."
                      ],
     "mandatory":  false
 }
