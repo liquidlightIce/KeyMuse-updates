@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  21,
-    "latestVersionName":  "0.1.21",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.21/KeyMuse-v0.1.21-debug.apk",
-    "apkSha256":  "24e86631e91093f298a669f1acc0cc3a278de1a7322d5a6d74f5ed05c85d0c8a",
+    "latestVersionCode":  22,
+    "latestVersionName":  "0.1.22",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.22/KeyMuse-v0.1.22-debug.apk",
+    "apkSha256":  "6cd4d5a96eb335af170f834a2028d90458a746759cfd5ea4110f1bf54a9e06d6",
     "releaseNotes":  [
-                         "Beginner ahora espera a que la nota llegue a la linea de golpe antes de aceptarla.",
-                         "Si tocas demasiado temprano en Beginner, muestra Wait for ... y no avanza.",
-                         "Beginner mantiene sin misses automaticos; Practice y Performance quedan igual."
+                         "Practice ahora pausa cuando pierdes una nota y espera la correccion correcta.",
+                         "El piano roll queda congelado con la nota objetivo en la linea durante la correccion.",
+                         "Beginner y Performance mantienen su comportamiento actual."
                      ],
     "mandatory":  false
 }
