@@ -1,14 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  19,
-    "latestVersionName":  "0.1.19",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.19/KeyMuse-v0.1.19-debug.apk",
-    "apkSha256":  "cc419034ee168f08d287fa709f5a04b5f5b1804feaf1486708446b47dcb499b8",
+    "latestVersionCode":  20,
+    "latestVersionName":  "0.1.20",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.20/KeyMuse-v0.1.20-debug.apk",
+    "apkSha256":  "41dfddcbccc79ddbbd0819ebac2498f64c1524b3e418d9d2d6750809244d07c0",
     "releaseNotes":  [
-                         "Agrega controles Play, Pause, Resume y Restart en Practice.",
-                         "Agrega modos Beginner, Practice y Performance.",
-                         "Agrega velocidad de practica 50%, 75% y 100%.",
-                         "Beginner espera la nota correcta sin misses automaticos; Performance usa timing mas estricto."
+                         "Agrega una guia persistente para Beginner con la secuencia completa.",
+                         "La guia muestra notas completadas, nota actual y proximas notas.",
+                         "Beginner ya no depende de memoria cuando las barras del piano roll desaparecen."
                      ],
     "mandatory":  false
 }
