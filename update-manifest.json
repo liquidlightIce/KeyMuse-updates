@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  20,
-    "latestVersionName":  "0.1.20",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.20/KeyMuse-v0.1.20-debug.apk",
-    "apkSha256":  "41dfddcbccc79ddbbd0819ebac2498f64c1524b3e418d9d2d6750809244d07c0",
+    "latestVersionCode":  21,
+    "latestVersionName":  "0.1.21",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.21/KeyMuse-v0.1.21-debug.apk",
+    "apkSha256":  "24e86631e91093f298a669f1acc0cc3a278de1a7322d5a6d74f5ed05c85d0c8a",
     "releaseNotes":  [
-                         "Agrega una guia persistente para Beginner con la secuencia completa.",
-                         "La guia muestra notas completadas, nota actual y proximas notas.",
-                         "Beginner ya no depende de memoria cuando las barras del piano roll desaparecen."
+                         "Beginner ahora espera a que la nota llegue a la linea de golpe antes de aceptarla.",
+                         "Si tocas demasiado temprano en Beginner, muestra Wait for ... y no avanza.",
+                         "Beginner mantiene sin misses automaticos; Practice y Performance quedan igual."
                      ],
     "mandatory":  false
 }
