@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  27,
-    "latestVersionName":  "0.1.27",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.27/KeyMuse-v0.1.27-debug.apk",
-    "apkSha256":  "e157c90bb37b31ca41073b98400908ee936768ac07fda46491828c0e384b294b",
+    "latestVersionCode":  28,
+    "latestVersionName":  "0.1.28",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.28/KeyMuse-v0.1.28-debug.apk",
+    "apkSha256":  "198967bcbd59b9ebe0a0a139e68265c2ecd315dacbce13c59133b95119323e11",
     "releaseNotes":  [
-                         "Practice ahora congela exactamente cuando la nota objetivo llega a la linea.",
-                         "Las notas futuras ya no avanzan frames extra durante la pausa de correccion.",
-                         "Las notas correctas hacen un flash breve antes de desaparecer."
+                         "Beginner guide ahora muestra una ventana corta movil en vez de toda la secuencia.",
+                         "La nota actual queda destacada con notas anteriores y proximas alrededor.",
+                         "Esto prepara la guia para canciones largas."
                      ],
     "mandatory":  false
 }
