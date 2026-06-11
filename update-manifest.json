@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  29,
-    "latestVersionName":  "0.1.29",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.29/KeyMuse-v0.1.29-debug.apk",
-    "apkSha256":  "6ab50265dc2032ef03a1f477fe69ff4130b803bbff26b37bb852dd92343ba3f3",
+    "latestVersionCode":  30,
+    "latestVersionName":  "0.1.30",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.30/KeyMuse-v0.1.30-debug.apk",
+    "apkSha256":  "af2e58c92aa7c4be12fe927f74b87472a889837178a1072464148d773cb09d12",
     "releaseNotes":  [
-                         "Beginner guide ahora deja visible por un instante la nota recien completada antes de sacarla.",
-                         "La nota completada hace un flash verde y fade para distinguir claramente cual fue tocada.",
-                         "Agrega cobertura para retener la nota saliente en secuencias Beginner largas."
+                         "Beginner guide ahora desliza la nota completada hacia la izquierda mientras desaparece.",
+                         "La nota saliente muestra un ticket para distinguir claramente cual fue completada.",
+                         "Se agrega estado explicito de nota saliente para animaciones mas confiables."
                      ],
     "mandatory":  false
 }
