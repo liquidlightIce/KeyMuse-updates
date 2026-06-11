@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  26,
-    "latestVersionName":  "0.1.26",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.26/KeyMuse-v0.1.26-debug.apk",
-    "apkSha256":  "e4ebb0c0ac2c6d3224f6d7727f08c7b1145a66d85919a3a4236e1ac4e8c60eec",
+    "latestVersionCode":  27,
+    "latestVersionName":  "0.1.27",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.27/KeyMuse-v0.1.27-debug.apk",
+    "apkSha256":  "e157c90bb37b31ca41073b98400908ee936768ac07fda46491828c0e384b294b",
     "releaseNotes":  [
-                         "Practice ya no rebobina el reloj visual al pausar por una nota perdida.",
-                         "Las notas futuras del piano roll deberian quedarse estables al iniciar la correccion.",
-                         "La nota que necesita correccion sigue fija en la linea."
+                         "Practice ahora congela exactamente cuando la nota objetivo llega a la linea.",
+                         "Las notas futuras ya no avanzan frames extra durante la pausa de correccion.",
+                         "Las notas correctas hacen un flash breve antes de desaparecer."
                      ],
     "mandatory":  false
 }
