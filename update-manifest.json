@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  25,
-    "latestVersionName":  "0.1.25",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.25/KeyMuse-v0.1.25-debug.apk",
-    "apkSha256":  "012cf30d12b5805a4ad6a17456c01f0a9eda877fd2dfc7b875d9aed65ce71476",
+    "latestVersionCode":  26,
+    "latestVersionName":  "0.1.26",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.26/KeyMuse-v0.1.26-debug.apk",
+    "apkSha256":  "e4ebb0c0ac2c6d3224f6d7727f08c7b1145a66d85919a3a4236e1ac4e8c60eec",
     "releaseNotes":  [
-                         "Las notas completadas del piano roll ahora desaparecen en vez de acumularse en la linea.",
-                         "Practice solo mantiene fija la nota que necesita correccion.",
-                         "Reemplaza el comportamiento de v0.1.24 que podia montar varias notas."
+                         "Practice ya no rebobina el reloj visual al pausar por una nota perdida.",
+                         "Las notas futuras del piano roll deberian quedarse estables al iniciar la correccion.",
+                         "La nota que necesita correccion sigue fija en la linea."
                      ],
     "mandatory":  false
 }
