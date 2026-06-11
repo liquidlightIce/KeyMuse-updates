@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  28,
-    "latestVersionName":  "0.1.28",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.28/KeyMuse-v0.1.28-debug.apk",
-    "apkSha256":  "198967bcbd59b9ebe0a0a139e68265c2ecd315dacbce13c59133b95119323e11",
+    "latestVersionCode":  29,
+    "latestVersionName":  "0.1.29",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.29/KeyMuse-v0.1.29-debug.apk",
+    "apkSha256":  "6ab50265dc2032ef03a1f477fe69ff4130b803bbff26b37bb852dd92343ba3f3",
     "releaseNotes":  [
-                         "Beginner guide ahora muestra una ventana corta movil en vez de toda la secuencia.",
-                         "La nota actual queda destacada con notas anteriores y proximas alrededor.",
-                         "Esto prepara la guia para canciones largas."
+                         "Beginner guide ahora deja visible por un instante la nota recien completada antes de sacarla.",
+                         "La nota completada hace un flash verde y fade para distinguir claramente cual fue tocada.",
+                         "Agrega cobertura para retener la nota saliente en secuencias Beginner largas."
                      ],
     "mandatory":  false
 }
