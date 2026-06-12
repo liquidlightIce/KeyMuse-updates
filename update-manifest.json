@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  32,
-    "latestVersionName":  "0.1.32",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.32/KeyMuse-v0.1.32-debug.apk",
-    "apkSha256":  "bb424a42278acecf3837d2b895960b208fea29ad7c0b073761af9cd54637e3a1",
+    "latestVersionCode":  33,
+    "latestVersionName":  "0.1.33",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.33/KeyMuse-v0.1.33-debug.apk",
+    "apkSha256":  "abd643acf70b5ed4e25fa7dcb3161a7c2c603db07fe2b5dab22e6055b4c689ca",
     "releaseNotes":  [
-                         "Corrige que el piano roll quede vacio al presionar una tecla en Beginner.",
-                         "Las notas completadas permanecen visibles brevemente al pasar por la linea antes de desaparecer.",
-                         "Mantiene el catalogo con Demo Melody y Beginner Scale Walk."
+                         "Corrige el estado del callback MIDI al cambiar de cancion.",
+                         "Beginner Scale Walk ahora usa la cancion y timeline seleccionados actualmente.",
+                         "Agrega prueba para mantener visibles notas futuras despues de tocar la primera nota en secuencias largas."
                      ],
     "mandatory":  false
 }
