@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  33,
-    "latestVersionName":  "0.1.33",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.33/KeyMuse-v0.1.33-debug.apk",
-    "apkSha256":  "abd643acf70b5ed4e25fa7dcb3161a7c2c603db07fe2b5dab22e6055b4c689ca",
+    "latestVersionCode":  34,
+    "latestVersionName":  "0.1.34",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.34/KeyMuse-v0.1.34-debug.apk",
+    "apkSha256":  "09815af732b010cdb86307c044218bb8b7de118432c9a9989f8bd133dfca4473",
     "releaseNotes":  [
-                         "Corrige el estado del callback MIDI al cambiar de cancion.",
-                         "Beginner Scale Walk ahora usa la cancion y timeline seleccionados actualmente.",
-                         "Agrega prueba para mantener visibles notas futuras despues de tocar la primera nota en secuencias largas."
+                         "Restaura el manejo de teclas MIDI en Practice y Beginner.",
+                         "La sesion MIDI se refresca al cambiar cancion o modo.",
+                         "Mantiene el timeline correcto para Demo Melody y Beginner Scale Walk."
                      ],
     "mandatory":  false
 }
