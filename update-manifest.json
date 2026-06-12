@@ -1,14 +1,14 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 35,
-  "latestVersionName": "0.1.35",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.35/KeyMuse-v0.1.35-debug.apk",
-  "apkSha256": "37f6767b57ad6b5e781ecbd5b81b1d9aebf595ca4a2aadf55182500eb1170d09",
+  "latestVersionCode": 36,
+  "latestVersionName": "0.1.36",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.36/KeyMuse-v0.1.36-debug.apk",
+  "apkSha256": "1712569e565d712cb12829b92f610aa049f26ec68bc9661fe8074167e09a837e",
   "releaseNotes": [
-    "El teclado visual ahora representa las 25 teclas del MiniLab 3, incluyendo Do5/C5.",
-    "La vista sigue automaticamente las notas MIDI recibidas al cambiar de octava.",
-    "Muestra el rango visual como Center, +1 o -1 sin transponer la puntuacion.",
-    "Beginner Scale Walk permanece dentro del rango central C4-C5."
+    "Agrega controles Oct-, Center y Oct+ para sincronizar el teclado visual con el MiniLab 3.",
+    "Corrige la ambiguedad visual al subir desde Center o desde octavas negativas.",
+    "Mantiene el seguimiento automatico para notas fuera del rango visible.",
+    "Los controles respetan los limites MIDI y vuelven a Center al cambiar cancion."
   ],
   "mandatory": false
 }
