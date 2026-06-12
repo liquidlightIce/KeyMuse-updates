@@ -3,7 +3,7 @@
     "latestVersionCode":  31,
     "latestVersionName":  "0.1.31",
     "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.31/KeyMuse-v0.1.31-debug.apk",
-    "apkSha256":  "8f6906b4f879629362d29b9311ec0bd9f58f9918fccc5080aea52b4f30c48fc",
+    "apkSha256":  "8f6906b4f879629362d29b9311ec0bd9f58f9918fccc5080ae9a52b4f30c48fc",
     "releaseNotes":  [
                          "Agrega catalogo de canciones incluidas.",
                          "Mantiene Demo Melody como cancion inicial.",
