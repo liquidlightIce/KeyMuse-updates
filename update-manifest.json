@@ -1,13 +1,14 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  30,
-    "latestVersionName":  "0.1.30",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.30/KeyMuse-v0.1.30-debug.apk",
-    "apkSha256":  "af2e58c92aa7c4be12fe927f74b87472a889837178a1072464148d773cb09d12",
+    "latestVersionCode":  31,
+    "latestVersionName":  "0.1.31",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.31/KeyMuse-v0.1.31-debug.apk",
+    "apkSha256":  "8f6906b4f879629362d29b9311ec0bd9f58f9918fccc5080aea52b4f30c48fc",
     "releaseNotes":  [
-                         "Beginner guide ahora desliza la nota completada hacia la izquierda mientras desaparece.",
-                         "La nota saliente muestra un ticket para distinguir claramente cual fue completada.",
-                         "Se agrega estado explicito de nota saliente para animaciones mas confiables."
+                         "Agrega catalogo de canciones incluidas.",
+                         "Mantiene Demo Melody como cancion inicial.",
+                         "Agrega Beginner Scale Walk con 24 notas para probar Beginner, Practice y Performance con secuencias mas largas.",
+                         "El estado de practica ahora usa la cancion seleccionada para objetivo, progreso y piano roll."
                      ],
     "mandatory":  false
 }
