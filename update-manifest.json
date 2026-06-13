@@ -1,14 +1,14 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 36,
-  "latestVersionName": "0.1.36",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.36/KeyMuse-v0.1.36-debug.apk",
-  "apkSha256": "1712569e565d712cb12829b92f610aa049f26ec68bc9661fe8074167e09a837e",
+  "latestVersionCode": 37,
+  "latestVersionName": "0.1.37",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.37/KeyMuse-v0.1.37-debug.apk",
+  "apkSha256": "ad4db2235b74f6355a75a55507b6cfcec8071c2285c5691ccdee07af688f2d2a",
   "releaseNotes": [
-    "Agrega controles Oct-, Center y Oct+ para sincronizar el teclado visual con el MiniLab 3.",
-    "Corrige la ambiguedad visual al subir desde Center o desde octavas negativas.",
-    "Mantiene el seguimiento automatico para notas fuera del rango visible.",
-    "Los controles respetan los limites MIDI y vuelven a Center al cambiar cancion."
+    "El pad Play del Arturia MiniLab 3 ahora inicia, pausa y reanuda la leccion.",
+    "Al terminar una leccion, el pad Play la reinicia y comienza nuevamente.",
+    "Mientras Practice espera una correccion, el pad no salta la nota pendiente.",
+    "Los mensajes del pad se aislan del teclado, la puntuacion y el cambio de octava."
   ],
   "mandatory": false
 }
