@@ -1,14 +1,15 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 37,
-  "latestVersionName": "0.1.37",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.37/KeyMuse-v0.1.37-debug.apk",
-  "apkSha256": "ad4db2235b74f6355a75a55507b6cfcec8071c2285c5691ccdee07af688f2d2a",
+  "latestVersionCode": 38,
+  "latestVersionName": "0.1.38",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.38/KeyMuse-v0.1.38-debug.apk",
+  "apkSha256": "6829adb91a7ed90966575a4d47bf2fec28a026999c4dd0c0e75680e43a6dfe6b",
   "releaseNotes": [
-    "El pad Play del Arturia MiniLab 3 ahora inicia, pausa y reanuda la leccion.",
-    "Al terminar una leccion, el pad Play la reinicia y comienza nuevamente.",
-    "Mientras Practice espera una correccion, el pad no salta la nota pendiente.",
-    "Los mensajes del pad se aislan del teclado, la puntuacion y el cambio de octava."
+    "Nuevo MIDI Test visual en tiempo real para el Arturia MiniLab 3.",
+    "Las teclas, pads y controles recibidos se destacan en el dibujo del controlador.",
+    "Nuevo manual offline buscable con informacion oficial, verificaciones de KeyMuse y guia practica.",
+    "Los controles del canal 10 quedan aislados del teclado y de la puntuacion de las lecciones.",
+    "La pausa conserva correctamente las notas visibles del piano roll."
   ],
   "mandatory": false
 }
