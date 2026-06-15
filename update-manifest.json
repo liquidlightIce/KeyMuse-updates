@@ -2,14 +2,14 @@
   "appId": "com.keymuse",
   "latestVersionCode": 39,
   "latestVersionName": "0.1.39",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.39/KeyMuse-v0.1.39-debug.apk",
-  "apkSha256": "13225775b19ace516dfd97f777ae7dad55671bd017179cdfba13b054b69dc921",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.39/KeyMuse-v0.1.39-release.apk",
+  "apkSha256": "6d8c634ee4bab1b7af7d898ec92ff7e64b0d8727032c97706377f8ed065aeed6",
   "releaseNotes": [
     "Controlador visual MiniLab 3 compartido entre MIDI Test y el manual.",
     "Manual guiado interactivo con progreso persistente y cinco etapas.",
     "Calibracion MIDI por dispositivo y perfiles guardados.",
     "Busqueda ampliada en tareas, referencias y solucion de problemas.",
-    "Mejoras visuales para pads, knobs, faders, teclado y pantalla del controlador."
+    "APK de actualizacion publicado como release no-debuggable para evitar bloqueo del instalador."
   ],
   "mandatory": false
 }
