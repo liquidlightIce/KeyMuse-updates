@@ -1,15 +1,14 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 39,
-  "latestVersionName": "0.1.39",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.39/KeyMuse-v0.1.39-release.apk",
-  "apkSha256": "6d8c634ee4bab1b7af7d898ec92ff7e64b0d8727032c97706377f8ed065aeed6",
+  "latestVersionCode": 40,
+  "latestVersionName": "0.1.40",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.40/KeyMuse-v0.1.40-release.apk",
+  "apkSha256": "70a0355a1d96790cef498dc363c883f10ff3a86094deaa744f46e3038ee392aa",
   "releaseNotes": [
-    "Controlador visual MiniLab 3 compartido entre MIDI Test y el manual.",
-    "Manual guiado interactivo con progreso persistente y cinco etapas.",
-    "Calibracion MIDI por dispositivo y perfiles guardados.",
-    "Busqueda ampliada en tareas, referencias y solucion de problemas.",
-    "APK de actualizacion publicado como release no-debuggable para evitar bloqueo del instalador."
+    "APK firmado con certificado release propio de KeyMuse, no con Android Debug.",
+    "Reduce los bloqueos de Play Protect al instalar desde el actualizador.",
+    "Importante: si venias de una version antigua firmada con Android Debug, desinstala KeyMuse una vez y luego instala v0.1.40.",
+    "A partir de esta version las futuras actualizaciones usaran la misma firma release."
   ],
   "mandatory": false
 }
