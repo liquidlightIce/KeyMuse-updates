@@ -1,14 +1,14 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 40,
-  "latestVersionName": "0.1.40",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.40/KeyMuse-v0.1.40-release.apk",
-  "apkSha256": "70a0355a1d96790cef498dc363c883f10ff3a86094deaa744f46e3038ee392aa",
+  "latestVersionCode": 41,
+  "latestVersionName": "0.1.41",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.41/KeyMuse-v0.1.41-release.apk",
+  "apkSha256": "f78fdcaa9c0ad8c9709fba7abdebe46135b1300f3ecb6cbaa08b54a3577a0a4d",
   "releaseNotes": [
-    "APK firmado con certificado release propio de KeyMuse, no con Android Debug.",
-    "Reduce los bloqueos de Play Protect al instalar desde el actualizador.",
-    "Importante: si venias de una version antigua firmada con Android Debug, desinstala KeyMuse una vez y luego instala v0.1.40.",
-    "A partir de esta version las futuras actualizaciones usaran la misma firma release."
+    "Corrige la calibracion MIDI del Arturia MiniLab 3.",
+    "Knobs y faders guardan rango fabricante 0..127 aunque el movimiento de calibracion sea parcial.",
+    "El encoder principal acepta CC absoluto como CC 114 cuando corresponde.",
+    "Se mantiene la deteccion de encoder relativo para presets que envian valores 1/127."
   ],
   "mandatory": false
 }
