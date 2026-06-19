@@ -1,14 +1,14 @@
 {
-  "appId": "com.keymuse",
-  "latestVersionCode": 41,
-  "latestVersionName": "0.1.41",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.41/KeyMuse-v0.1.41-release.apk",
-  "apkSha256": "f78fdcaa9c0ad8c9709fba7abdebe46135b1300f3ecb6cbaa08b54a3577a0a4d",
-  "releaseNotes": [
-    "Corrige la calibracion MIDI del Arturia MiniLab 3.",
-    "Knobs y faders guardan rango fabricante 0..127 aunque el movimiento de calibracion sea parcial.",
-    "El encoder principal acepta CC absoluto como CC 114 cuando corresponde.",
-    "Se mantiene la deteccion de encoder relativo para presets que envian valores 1/127."
-  ],
-  "mandatory": false
+    "appId":  "com.keymuse",
+    "latestVersionCode":  42,
+    "latestVersionName":  "0.1.42",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.42/KeyMuse-v0.1.42-release.apk",
+    "apkSha256":  "0e62bcee05f6800e30246a73ac4050feed7db38dc189dbefc5b55c2e42031af2",
+    "releaseNotes":  [
+                         "Publica una nueva version para probar los cambios recientes desde el actualizador.",
+                         "Agrega metronomo visual tradicional con BPM y compases.",
+                         "Corrige que Pause en Practice no acepte notas ni reanude por error.",
+                         "Ajusta el piano roll para evitar notas cortadas o fuera de la ventana."
+                     ],
+    "mandatory":  false
 }
