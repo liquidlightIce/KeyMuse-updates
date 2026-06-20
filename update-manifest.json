@@ -1,14 +1,14 @@
-{
+﻿{
     "appId":  "com.keymuse",
-    "latestVersionCode":  42,
-    "latestVersionName":  "0.1.42",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.42/KeyMuse-v0.1.42-release.apk",
-    "apkSha256":  "0e62bcee05f6800e30246a73ac4050feed7db38dc189dbefc5b55c2e42031af2",
+    "latestVersionCode":  43,
+    "latestVersionName":  "0.1.43",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.43/KeyMuse-v0.1.43-release.apk",
+    "apkSha256":  "93d345fb11eab2963d20211ddc67689220e4975ac6240fb77e5dcb4649e20ab0",
+    "mandatory":  false,
     "releaseNotes":  [
-                         "Publica una nueva version para probar los cambios recientes desde el actualizador.",
-                         "Agrega metronomo visual tradicional con BPM y compases.",
-                         "Corrige que Pause en Practice no acepte notas ni reanude por error.",
-                         "Ajusta el piano roll para evitar notas cortadas o fuera de la ventana."
-                     ],
-    "mandatory":  false
+                         "Synchronizes Speed with effective BPM for piano roll and metronome.",
+                         "Documents the future metronome polish direction.",
+                         "Adds beginner scales, arpeggios, and mini melody lessons.",
+                         "Groups lessons by Songs, Scales, Chords, and Melodies."
+                     ]
 }
