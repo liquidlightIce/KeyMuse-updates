@@ -1,14 +1,13 @@
 {
   "appId": "com.keymuse",
-  "latestVersionCode": 43,
-  "latestVersionName": "0.1.43",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.43/KeyMuse-v0.1.43-release.apk",
-  "apkSha256": "93d345fb11eab2963d20211ddc67689220e4975ac6240fb77e5dcb4649e20ab0",
+  "latestVersionCode": 44,
+  "latestVersionName": "0.1.44",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.44/KeyMuse-v0.1.44-release.apk",
+  "apkSha256": "a78660a380b726ffd394482a6962139a914ce9d06d2d6a39b4c511ffb208f211",
   "mandatory": false,
   "releaseNotes": [
-    "Synchronizes Speed with effective BPM for piano roll and metronome.",
-    "Documents the future metronome polish direction.",
-    "Adds beginner scales, arpeggios, and mini melody lessons.",
-    "Groups lessons by Songs, Scales, Chords, and Melodies."
+    "Compacts the lesson selector to give more room to the piano roll.",
+    "Shows KeyMuse as the app title and moves the selected lesson into practice metadata.",
+    "Removes the Lesson and Item side labels from the practice selector."
   ]
 }
