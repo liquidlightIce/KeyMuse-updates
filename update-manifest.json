@@ -1,13 +1,12 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  47,
-    "latestVersionName":  "0.1.47",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.47/KeyMuse-v0.1.47-release.apk",
-    "apkSha256":  "137fb80189effe7b23c5479724800c321a5953f24004a89bce24625b50d399bd",
-    "mandatory":  false,
+    "latestVersionCode":  48,
+    "latestVersionName":  "0.1.48",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.48/KeyMuse-v0.1.48-release.apk",
+    "apkSha256":  "b668f896869eacdf9e05d81da9de37c2954ac2a282344eed4995084f9261334b",
     "releaseNotes":  [
-                         "Mantiene estable la posicion del piano roll al cambiar BPM o Speed durante Practice.",
-                         "Aclara la calibracion MIDI separando rango observado y rango guardado 0-127.",
-                         "Mejora el recorrido visual de los faders en MIDI Test."
-                     ]
+                         "Corrige que Practice a 50% o 75% no marque en rojo futuras notas al recibir cualquier tecla MIDI.",
+                         "Mantiene Performance con misses por tiempo para entrenamiento mas estricto."
+                     ],
+    "mandatory":  false
 }
