@@ -1,13 +1,13 @@
 {
-  "appId": "com.keymuse",
-  "latestVersionCode": 44,
-  "latestVersionName": "0.1.44",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.44/KeyMuse-v0.1.44-release.apk",
-  "apkSha256": "a78660a380b726ffd394482a6962139a914ce9d06d2d6a39b4c511ffb208f211",
-  "mandatory": false,
-  "releaseNotes": [
-    "Compacts the lesson selector to give more room to the piano roll.",
-    "Shows KeyMuse as the app title and moves the selected lesson into practice metadata.",
-    "Removes the Lesson and Item side labels from the practice selector."
-  ]
+    "appId":  "com.keymuse",
+    "latestVersionCode":  45,
+    "latestVersionName":  "0.1.45",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.45/KeyMuse-v0.1.45-release.apk",
+    "apkSha256":  "0f23e3c5e512fc183aac7222657646fce302409d30d6f04d42e5af3be6be2473",
+    "mandatory":  false,
+    "releaseNotes":  [
+                         "Adds immersive fullscreen mode to give the piano roll more vertical space.",
+                         "Adds a compact in-app status cluster for time, battery, and Online/Offline state.",
+                         "Collapses the lesson selector by default so changing songs no longer consumes practice space."
+                     ]
 }
