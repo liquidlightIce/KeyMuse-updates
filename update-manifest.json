@@ -3,7 +3,7 @@
     "latestVersionCode":  45,
     "latestVersionName":  "0.1.45",
     "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.45/KeyMuse-v0.1.45-release.apk",
-    "apkSha256":  "0f23e3c5e512fc183aac7222657646fce302409d30d6f04d42e5af3be6be2473",
+    "apkSha256":  "d2032940dde631fe4949ceb79e3d29f9a2e936fb9b47a59e651fdb5bde059825",
     "mandatory":  false,
     "releaseNotes":  [
                          "Adds immersive fullscreen mode to give the piano roll more vertical space.",
