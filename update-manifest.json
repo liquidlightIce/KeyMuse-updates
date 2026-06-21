@@ -1,13 +1,11 @@
 {
-    "appId":  "com.keymuse",
-    "latestVersionCode":  45,
-    "latestVersionName":  "0.1.45",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.45/KeyMuse-v0.1.45-release.apk",
-    "apkSha256":  "d2032940dde631fe4949ceb79e3d29f9a2e936fb9b47a59e651fdb5bde059825",
-    "mandatory":  false,
+    "latestVersionCode":  46,
+    "latestVersionName":  "0.1.46",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.46/KeyMuse-v0.1.46-release.apk",
+    "apkSha256":  "0e033fdbc223f928f10751f3475af8c62eb1f79dc0ca722f257ae7f84e541ecd",
     "releaseNotes":  [
-                         "Adds immersive fullscreen mode to give the piano roll more vertical space.",
-                         "Adds a compact in-app status cluster for time, battery, and Online/Offline state.",
-                         "Collapses the lesson selector by default so changing songs no longer consumes practice space."
+                         "Muestra la version junto al logo de KeyMuse en la interfaz principal.",
+                         "Agrega un display de estado estilo cristal/hi-fi alternable tocando el logo.",
+                         "Mantiene el display limpio por defecto para no distraer durante la practica."
                      ]
 }
