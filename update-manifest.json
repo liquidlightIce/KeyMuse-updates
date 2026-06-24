@@ -1,12 +1,12 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  48,
-    "latestVersionName":  "0.1.48",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.48/KeyMuse-v0.1.48-release.apk",
-    "apkSha256":  "b668f896869eacdf9e05d81da9de37c2954ac2a282344eed4995084f9261334b",
+    "latestVersionCode":  49,
+    "latestVersionName":  "0.1.49",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.49/KeyMuse-v0.1.49-release.apk",
+    "apkSha256":  "35da29e4545b9daba7e90f4028b8e5dae12a43a67d52d0c814886ed78915df23",
     "releaseNotes":  [
-                         "Corrige que Practice a 50% o 75% no marque en rojo futuras notas al recibir cualquier tecla MIDI.",
-                         "Mantiene Performance con misses por tiempo para entrenamiento mas estricto."
+                         "Corrige Performance al cambiar Speed 50%, 75% o 100%.",
+                         "El input MIDI ahora usa la timeline actualizada y no marca notas futuras como falladas antes del goal."
                      ],
     "mandatory":  false
 }
