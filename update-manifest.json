@@ -1,12 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  49,
-    "latestVersionName":  "0.1.49",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.49/KeyMuse-v0.1.49-release.apk",
-    "apkSha256":  "35da29e4545b9daba7e90f4028b8e5dae12a43a67d52d0c814886ed78915df23",
+    "latestVersionCode":  50,
+    "latestVersionName":  "0.1.50",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.50/KeyMuse-v0.1.50-release.apk",
+    "apkSha256":  "4b12b8f6bcb0584d1df3359451a122b71c8e51ffd29b15937f5cc807a42b0b39",
     "releaseNotes":  [
-                         "Corrige Performance al cambiar Speed 50%, 75% o 100%.",
-                         "El input MIDI ahora usa la timeline actualizada y no marca notas futuras como falladas antes del goal."
+                         "Integra el workspace Teach para orientar la Academia Musical.",
+                         "Limpia artefactos QA locales del control de versiones.",
+                         "Mantiene la base actual de Academia para pruebas en tablet."
                      ],
     "mandatory":  false
 }
