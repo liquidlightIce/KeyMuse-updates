@@ -1,12 +1,13 @@
 {
-    "appId":  "com.keymuse",
-    "latestVersionCode":  53,
-    "latestVersionName":  "0.1.53",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.53/KeyMuse-v0.1.53-release.apk",
-    "apkSha256":  "DBA9783DD14C12BB7C7F0F31FFDA5489A42FE12727D76E72229C73B9F4E5009C",
-    "releaseNotes":  [
-                         "Corrige crash en Academia al pasar a Tu primera secuencia 3/4.",
-                         "Evita dibujar piano roll cuando Compose aun no entrega tamano de canvas valido."
-                     ],
-    "mandatory":  false
+  "appId": "com.keymuse",
+  "latestVersionCode": 53,
+  "latestVersionName": "0.1.53",
+  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.53/KeyMuse-v0.1.53-release.apk",
+  "apkSha256": "1DE846CC1EDF4061A74979CC7BC8914D8A756C3C7F34BB6ED0FE671C13E91868",
+  "releaseNotes": [
+    "Reconciliación completa de la rama de desarrollo con los arreglos remotos de Practice.",
+    "Conserva Academia Musical y el módulo Teclado.",
+    "Integra las correcciones de práctica, velocidad, metrónomo y estabilidad MIDI."
+  ],
+  "mandatory": false
 }
