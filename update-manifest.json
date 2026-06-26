@@ -1,13 +1,13 @@
 {
     "appId":  "com.keymuse",
-    "latestVersionCode":  51,
-    "latestVersionName":  "0.1.51",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.51/KeyMuse-v0.1.51-release.apk",
-    "apkSha256":  "a7ef21052a8545f0ad341532ff7b665fe82d94c705625c7dfdc00d2690c07db4",
+    "latestVersionCode":  52,
+    "latestVersionName":  "0.1.52",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.52/KeyMuse-v0.1.52-release.apk",
+    "apkSha256":  "1064cb299768547cc3e1be7621f41de70b3db6223b2e77f194be337d7932a55e",
     "releaseNotes":  [
-                         "Corrige Academia: Abrir una leccion inicia desde el primer paso.",
-                         "Deja la reanudacion como comportamiento explicito futuro.",
-                         "Mueve Anterior, Siguiente y Salir al panel izquierdo para que no queden ocultos por el teclado."
+                         "Mejora Academia: los pasos explicativos usan un teclado realista.",
+                         "La primera leccion resalta los grupos de teclas negras en modo demostracion.",
+                         "El teclado demostrativo no acepta taps para no confundirse con la practica."
                      ],
     "mandatory":  false
 }
