@@ -1,13 +1,1 @@
-{
-  "appId": "com.keymuse",
-  "latestVersionCode": 53,
-  "latestVersionName": "0.1.53",
-  "apkUrl": "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.53/KeyMuse-v0.1.53-release.apk",
-  "apkSha256": "1DE846CC1EDF4061A74979CC7BC8914D8A756C3C7F34BB6ED0FE671C13E91868",
-  "releaseNotes": [
-    "Reconciliación completa de la rama de desarrollo con los arreglos remotos de Practice.",
-    "Conserva Academia Musical y el módulo Teclado.",
-    "Integra las correcciones de práctica, velocidad, metrónomo y estabilidad MIDI."
-  ],
-  "mandatory": false
-}
+{"appId":"com.keymuse","latestVersionCode":54,"latestVersionName":"0.1.54","apkUrl":"https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.54/KeyMuse-v0.1.54-release.apk","apkSha256":"E8CB39EE0E0420A0BCBF2A6FC9A4EED1113E8881EE97BA76219E542129D3BD70","releaseNotes":["Publicacion corregida para tablets instaladas en v0.1.53.","Conserva Academia Musical, Practice y las correcciones MIDI reconciliadas."],"mandatory":false}
