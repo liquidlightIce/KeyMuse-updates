@@ -1,13 +1,11 @@
 {
-    "appId":  "com.keymuse",
-    "latestVersionCode":  52,
-    "latestVersionName":  "0.1.52",
-    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.52/KeyMuse-v0.1.52-release.apk",
-    "apkSha256":  "1064cb299768547cc3e1be7621f41de70b3db6223b2e77f194be337d7932a55e",
+    "latestVersionCode":  53,
+    "latestVersionName":  "0.1.53",
+    "apkUrl":  "https://github.com/liquidlightIce/KeyMuse-updates/releases/download/v0.1.53/KeyMuse-v0.1.53-release.apk",
+    "apkSha256":  "DBA9783DD14C12BB7C7F0F31FFDA5489A42FE12727D76E72229C73B9F4E5009C",
     "releaseNotes":  [
-                         "Mejora Academia: los pasos explicativos usan un teclado realista.",
-                         "La primera leccion resalta los grupos de teclas negras en modo demostracion.",
-                         "El teclado demostrativo no acepta taps para no confundirse con la practica."
+                         "Corrige crash en Academia al pasar a Tu primera secuencia 3/4.",
+                         "Evita dibujar piano roll cuando Compose aun no entrega tamano de canvas valido."
                      ],
     "mandatory":  false
 }
